@@ -35,10 +35,10 @@ Membuat sistem kasir self-service agar customer bisa langsung memasukkan item ya
 ![image](https://github.com/AgilWirayudha/Project_SuperCashier-/assets/144359538/1b52b648-59ca-42ff-8081-84b2b4d546ec)
 
 ### def update_item_price()
-![image](https://github.com/AgilWirayudha/Project_SuperCashier-/assets/144359538/8df3605a-1806-442f-9462-ee041ba774a4)
+![image](https://github.com/AgilWirayudha/Project_SuperCashier-/assets/144359538/6fcfa55f-85ae-4857-b372-339fba0f6d50)
 
 ### def delete_item()
-![image](https://github.com/AgilWirayudha/Project_SuperCashier-/assets/144359538/6fcfa55f-85ae-4857-b372-339fba0f6d50)
+![image](https://github.com/AgilWirayudha/Project_SuperCashier-/assets/144359538/8df3605a-1806-442f-9462-ee041ba774a4)
 
 ### def reset_transaction()
 ![image](https://github.com/AgilWirayudha/Project_SuperCashier-/assets/144359538/5a2a3a65-a729-46ba-9178-e0fd365a2196)
