@@ -66,7 +66,7 @@ Ternyata setelah dipikir-pikir Customer salah memasukkan item yang ingin dibelan
 ## Test 4
 Setelah Customer selesai berbelanja, akan menghitung total belanja yang harus dibayarkan menggunakan method total_price(). Sebelum mengeluarkan output total belanja akan menampilkan item-item yang dibeli.
 ## output: 
-![image](https://github.com/AgilWirayudha/Project_SuperCashier-/assets/144359538/76d9ef20-c28b-44a7-b1da-ff26380c5732)
+![image](https://github.com/AgilWirayudha/Project_SuperCashier-/assets/144359538/76d9ef20-c28b-44a7-b1da-ff26380c5732) 
 
 # Future Work
 Terdapat beberapa hal yang masih dapat dikembangkan di masa mendatang, beberapa diantaranya yakni:
