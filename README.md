@@ -46,7 +46,7 @@ Membuat sistem kasir self-service agar customer bisa langsung memasukkan item ya
 ![image](https://github.com/AgilWirayudha/Project_SuperCashier-/assets/144359538/4b24b1c7-9a56-41cc-bb13-312991fdd83a)
 
 ### def total_price
-impr![image](https://github.com/AgilWirayudha/Project_SuperCashier-/assets/144359538/2ff35c84-288b-4316-ad44-2748078a4738)
+![image](https://github.com/AgilWirayudha/Project_SuperCashier-/assets/144359538/2ff35c84-288b-4316-ad44-2748078a4738)
 
 # Test Case
 ## Test 1:
