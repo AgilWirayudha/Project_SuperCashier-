@@ -18,6 +18,7 @@ Membuat sistem kasir self-service agar customer bisa langsung memasukkan item ya
 7. Menghitung total belanja beserta diskonnya (apabila ada)
 
 # Flowchart
+![image](https://github.com/AgilWirayudha/Project_SuperCashier-/assets/144359538/8423543f-01cf-412f-9ee9-3dc123327c48)
 
 # Code Explanation
 ### Class Transaction()
