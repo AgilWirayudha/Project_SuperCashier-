@@ -20,15 +20,19 @@ Membuat sistem kasir self-service agar customer bisa langsung memasukkan item ya
 # Flowchart
 
 # Code Explanation
-1. Class Transaction()
-2. def add_item()
-3. def update_item_name()
-4. def update_item_qty()
-5. def update_item_price()
-6. def delete_item()
-7. def reset_transaction()
-8. def check_order()
-9. def total_price
+### Class Transaction()
+   ![image](https://github.com/AgilWirayudha/Project_SuperCashier-/assets/144359538/72fbd897-cb10-48c8-9a50-08021fdbff89)
+
+### def add_item()
+![Uploading image.png…]()
+
+4. def update_item_name()
+5. def update_item_qty()
+6. def update_item_price()
+7. def delete_item()
+8. def reset_transaction()
+9. def check_order()
+10. def total_price
 
 # Test Case
 ## Test 1:
